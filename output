@@ -1,0 +1,6 @@
+PS C:\Users\kjkri\OneDrive\Desktop\chatApp> javac Server.java
+PS C:\Users\kjkri\OneDrive\Desktop\chatApp> javac client.java
+PS C:\Users\kjkri\OneDrive\Desktop\chatApp> java Server
+Server started. Waiting for clients...
+New client connected.
+Received: hi,this is dharani
